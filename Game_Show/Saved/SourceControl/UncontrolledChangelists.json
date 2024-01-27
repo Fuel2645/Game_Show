@@ -6,7 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Game.uasset",
-				"C:/Users/c2147905/Source/new/Game_Show/Game_Show/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"C:/Users/C2248776/Source/Game_Show/Game_Show/Content/JJ/Place-Japan_HLOD0_Instancing.uasset",
 				"C:/Users/C2248776/Source/Game_Show/Game_Show/Content/__ExternalActors__/JJ/Place-Japan/9/ET/PNE2T2KOASLLFWDIP9NG0M.uasset",
 				"C:/Users/C2248776/Source/Game_Show/Game_Show/Content/__ExternalObjects__/JJ/Place-Japan/B/Y2/OSY46L14N2OM7HW5AKCHK2.uasset",
@@ -154,6 +153,10 @@
 				"C:/Users/C2248776/Source/Game_Show/Game_Show/Content/JJ/Bean.uasset",
 				"C:/Users/C2248776/Source/Game_Show/Game_Show/Content/__ExternalActors__/JJ/Place-Japan/3/G8/ZLG7TG41P2MI8OQ6TL7C4B.uasset",
 				"C:/Users/C2248776/Source/Game_Show/Game_Show/Content/JJ/BetterGame.uasset",
+				"C:/Users/C2248776/Source/Game_Show/Game_Show/Content/Characters/Mannequins/Meshes/SKM_Quinn_Physics.uasset",
+				"C:/Users/C2248776/Source/Game_Show/Game_Show/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/C2248776/Source/Game_Show/Game_Show/Content/Daniel/TestMap.umap",
+				"C:/Users/c2147905/Source/new/Game_Show/Game_Show/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"C:/Users/c2147905/Source/Game_Show/Game_Show/Content/Daniel/TestMap.umap",
 				"C:/Users/c2147905/Source/Game_Show/Game_Show/Content/Daniel/Bouncing_Wall.uasset",
 				"C:/Users/c2147905/Source/Game_Show/Game_Show/Content/Daniel/Rotating_Hammer.uasset",
